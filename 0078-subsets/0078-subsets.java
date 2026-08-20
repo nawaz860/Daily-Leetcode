@@ -1,15 +1,15 @@
 class Solution {
-    List<List<Integer>> res = new ArrayList<>();
+    List<List<Integer>> result = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
         findSubsets(nums, 0, new ArrayList<>());
-        return res;
+        return result;
     }
 
     public void findSubsets(int nums[], int index, List<Integer> sublist) {
         // base case
         if (index == nums.length) {
-            res.add(new ArrayList<>(sublist));
+            result.add(new ArrayList<>(sublist));
             return;
         }
         //pick
