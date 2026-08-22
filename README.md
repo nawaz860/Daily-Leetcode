@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nawaz860/Daily-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
