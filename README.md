@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nawaz860/Daily-Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nawaz860/Daily-Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
