@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nawaz860/Daily-Leetcode/tree/master/0041-first-missing-positive) |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
