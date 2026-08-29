@@ -20,7 +20,9 @@ class Solution {
         sublist.remove(sublist.size()-1);
         index++;
 
-        // agar last picked element current element ke equal hai ti skip kar jayenge
+        // agar current element previous element ke equal hai,
+        // to duplicate combinations avoid karne ke liye current element ko bhi skip kar denge
+        
         while(index<candidates.length && candidates[index]==candidates[index-1]) index++;
 
         //not picked
