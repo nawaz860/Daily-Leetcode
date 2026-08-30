@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
+| [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0665-non-decreasing-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/0665-non-decreasing-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
