@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/nawaz860/Daily-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nawaz860/Daily-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2485-find-the-pivot-integer](https://github.com/nawaz860/Daily-Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
