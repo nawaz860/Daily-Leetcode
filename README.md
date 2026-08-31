@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/nawaz860/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/0665-non-decreasing-array) |
 | [1470-shuffle-the-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
