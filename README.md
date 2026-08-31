@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0665-non-decreasing-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/0665-non-decreasing-array) |
+| [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
