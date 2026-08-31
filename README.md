@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/nawaz860/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/nawaz860/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/0665-non-decreasing-array) |
 | [1470-shuffle-the-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
+| [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
+| [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/nawaz860/Daily-Leetcode/tree/master/0041-first-missing-positive) |
+| [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Brainteaser
 |  |
