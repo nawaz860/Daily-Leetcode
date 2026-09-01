@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/nawaz860/Daily-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2485-find-the-pivot-integer](https://github.com/nawaz860/Daily-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nawaz860/Daily-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -116,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/nawaz860/Daily-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
