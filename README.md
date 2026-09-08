@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nawaz860/Daily-Leetcode/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Brainteaser
 |  |
@@ -149,8 +153,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Counting
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
