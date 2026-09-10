@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/nawaz860/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
