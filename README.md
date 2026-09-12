@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Recursion
