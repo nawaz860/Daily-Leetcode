@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Brainteaser
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/nawaz860/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/nawaz860/Daily-Leetcode/tree/master/1154-day-of-the-year) |
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Trie
 |  |
 | ------- |
