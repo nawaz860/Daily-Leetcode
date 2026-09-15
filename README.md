@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Recursion
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0844-backspace-string-compare](https://github.com/nawaz860/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/nawaz860/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/nawaz860/Daily-Leetcode/tree/master/1154-day-of-the-year) |
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nawaz860/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
