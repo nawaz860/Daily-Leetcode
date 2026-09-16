@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nawaz860/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/nawaz860/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/nawaz860/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1143-longest-common-subsequence) |
