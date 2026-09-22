@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/nawaz860/Daily-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/nawaz860/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0292-nim-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nawaz860/Daily-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nawaz860/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0213-house-robber-ii) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nawaz860/Daily-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
