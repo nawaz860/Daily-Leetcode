@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
+| [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Bit Manipulation
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nawaz860/Daily-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
 ## Math
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nawaz860/Daily-Leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
