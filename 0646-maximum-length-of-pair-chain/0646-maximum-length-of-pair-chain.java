@@ -1,29 +1,35 @@
 class Solution {
+    int[] dp= new int[1001];
 
-    int [][] dp = new int [1002][1002];
+    int fun(int[][]nums, int i){
 
-    int fun(int [][] pairs,int prev, int i){
-        if(i>=pairs.length) return 0;
+        if(i>=nums.length) return 0;
 
-        if(dp[prev+1][i]!=-1) return dp[prev+1][i];
+        int id=nums.length;
 
-        int m=0;
+        if(dp[i]!=-1) return dp[i];
 
-        if(prev==-1 || pairs[i][0] > pairs[prev][1]){
-            int a=1+fun(pairs,i,i+1);
-            m=Math.max(m,a);
-        }
+        int l=i+1;
+        int h=nums.length-1;
 
-        int b=fun(pairs,prev,i+1);
-        m=Math.max(m,b);
+         while(l<=h){
+        int mid=(l+h)/2;
+        if(nums[mid][0]>nums[i][1]){
+            id=mid;
+            h=mid-1;
+        }else l=mid+1;
+    }
+    int t=1+fun(nums,id);
+    int nt=fun(nums,i+1);
 
-        return dp[prev+1][i]=m;
+    return dp[i]=Math.max(t,nt);
 
     }
-
     public int findLongestChain(int[][] pairs) {
-        for(int i=0;i<dp.length;i++) Arrays.fill(dp[i],-1);
         Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0]));
-        return fun(pairs,-1,0);
+        Arrays.fill(dp,-1);
+
+        return fun(pairs,0);
+        
     }
 }
