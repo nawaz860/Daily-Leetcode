@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/nawaz860/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nawaz860/Daily-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0665-non-decreasing-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/nawaz860/Daily-Leetcode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nawaz860/Daily-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nawaz860/Daily-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nawaz860/Daily-Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0047-permutations-ii) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nawaz860/Daily-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nawaz860/Daily-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nawaz860/Daily-Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Combinatorics
 |  |
 | ------- |
