@@ -9,7 +9,14 @@ class Solution {
 
         if(dp[i]!=-1) return dp[i];
 
-        int l=i+1;
+         for(int j=i+1;j<nums.length;j++){
+       if(nums[j][0]>nums[i][1]){
+             id=j;
+             break;
+         }
+     }
+
+       /* int l=i+1;
         int h=nums.length-1;
 
          while(l<=h){
@@ -18,7 +25,8 @@ class Solution {
             id=mid;
             h=mid-1;
         }else l=mid+1;
-    }
+    }*/
+
     int t=1+fun(nums,id);
     int nt=fun(nums,i+1);
 
