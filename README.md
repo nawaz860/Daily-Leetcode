@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nawaz860/Daily-Leetcode/tree/master/0046-permutations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/nawaz860/Daily-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nawaz860/Daily-Leetcode/tree/master/0198-house-robber) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0504-base-7](https://github.com/nawaz860/Daily-Leetcode/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/0551-student-attendance-record-i) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
