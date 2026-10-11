@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/nawaz860/Daily-Leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/0877-stone-game) |
+| [1103-distribute-candies-to-people](https://github.com/nawaz860/Daily-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/nawaz860/Daily-Leetcode/tree/master/1154-day-of-the-year) |
 | [1688-count-of-matches-in-tournament](https://github.com/nawaz860/Daily-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nawaz860/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+| [1103-distribute-candies-to-people](https://github.com/nawaz860/Daily-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/nawaz860/Daily-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
