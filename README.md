@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
