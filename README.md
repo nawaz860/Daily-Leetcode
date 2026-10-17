@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/nawaz860/Daily-Leetcode/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0980-unique-paths-iii) |
+| [2351-first-letter-to-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Math
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nawaz860/Daily-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/nawaz860/Daily-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2788-split-strings-by-separator](https://github.com/nawaz860/Daily-Leetcode/tree/master/2788-split-strings-by-separator) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
