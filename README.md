@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nawaz860/Daily-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nawaz860/Daily-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
