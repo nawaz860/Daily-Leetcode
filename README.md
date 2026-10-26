@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nawaz860/Daily-Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/nawaz860/Daily-Leetcode/tree/master/2788-split-strings-by-separator) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nawaz860/Daily-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nawaz860/Daily-Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/nawaz860/Daily-Leetcode/tree/master/0740-delete-and-earn) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nawaz860/Daily-Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/nawaz860/Daily-Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nawaz860/Daily-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nawaz860/Daily-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nawaz860/Daily-Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/nawaz860/Daily-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/nawaz860/Daily-Leetcode/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/nawaz860/Daily-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
