@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/nawaz860/Daily-Leetcode/tree/master/1154-day-of-the-year) |
 | [1446-consecutive-characters](https://github.com/nawaz860/Daily-Leetcode/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nawaz860/Daily-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nawaz860/Daily-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nawaz860/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nawaz860/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nawaz860/Daily-Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -360,5 +362,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
