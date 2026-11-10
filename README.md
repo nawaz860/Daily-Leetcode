@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/nawaz860/Daily-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/nawaz860/Daily-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/nawaz860/Daily-Leetcode/tree/master/1154-day-of-the-year) |
+| [1492-the-kth-factor-of-n](https://github.com/nawaz860/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/nawaz860/Daily-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nawaz860/Daily-Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -364,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/nawaz860/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/nawaz860/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
