@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nawaz860/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/nawaz860/Daily-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nawaz860/Daily-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nawaz860/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -385,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nawaz860/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nawaz860/Daily-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
