@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nawaz860/Daily-Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/nawaz860/Daily-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nawaz860/Daily-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nawaz860/Daily-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/nawaz860/Daily-Leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nawaz860/Daily-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1844-replace-all-digits-with-characters](https://github.com/nawaz860/Daily-Leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nawaz860/Daily-Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nawaz860/Daily-Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nawaz860/Daily-Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nawaz860/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nawaz860/Daily-Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nawaz860/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/nawaz860/Daily-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/nawaz860/Daily-Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nawaz860/Daily-Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Zero-Sum Game
