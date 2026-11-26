@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/nawaz860/Daily-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/nawaz860/Daily-Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nawaz860/Daily-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nawaz860/Daily-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nawaz860/Daily-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/nawaz860/Daily-Leetcode/tree/master/3870-count-commas-in-range) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/nawaz860/Daily-Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/nawaz860/Daily-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/nawaz860/Daily-Leetcode/tree/master/2810-faulty-keyboard) |
+| [3360-stone-removal-game](https://github.com/nawaz860/Daily-Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nawaz860/Daily-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
