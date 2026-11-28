@@ -1,24 +1,24 @@
 class Solution {
 
-    void dfsTraverse(int start, int [][] isConnected, boolean[] visited){
-        visited[start]=true;
+    void dfs(int start, int [][] isConnected, boolean[] vis){
+        vis[start]=true;
         
         for(int i=0;i<isConnected.length;i++){
-            if(isConnected[start][i]==1 && !visited[i]) dfsTraverse(i,isConnected,visited);
+            if(isConnected[start][i]==1 && !vis[i]) dfs(i,isConnected,vis);
         }
     }
     public int findCircleNum(int[][] isConnected) {
-        
-        boolean[] visited= new boolean[isConnected.length];
+
+        boolean [] vis= new boolean[isConnected.length];
 
         int count=0;
-
-        for(int i=0;i<visited.length;i++){
-            if(!visited[i]){
+        for(int i=0;i<vis.length;i++){
+            if(!vis[i]){
                 count++;
-                dfsTraverse(i,isConnected,visited);
+                dfs(i,isConnected,vis);
             }
         }
-        return count;
+
+        return count;  
     }
 }
